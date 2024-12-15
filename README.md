@@ -4,7 +4,7 @@ il est en beta
 ATTENTION nous ne sommes pas responsable de votre utiliter de cette outil il est dans un but educatif et legal 
 
     Fonctionnalités
-    Installation
+    Installation telecharger nextool.html et ouvrer
     Utilisation
 
 🌟 Fonctionnalités
